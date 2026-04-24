@@ -1,0 +1,7 @@
+dist-newstyle
+*.o
+*.hi
+*.dyn_hi
+*.dyn_o
+*.o-boot
+*.hi-boot
